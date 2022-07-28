@@ -1,3 +1,33 @@
 [
-  Session id here
+ },
+        "indexValueMap": {
+          "XvJHw38xVmT0q+Nqb+0xQR4nVjeKQBz9+F5CVHIhEhY=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "EqfHeYcreq7DA2tMxodvSVPWsfqCIOYvnI5NPqulwEw="
+            }
+          },
+          "lCH1aW8wYl6nCt63DJ0c96bb9RJqECmted178ZUsUlU=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "EywMkEF0JCYSd/Mcuzd+XRpH3pgC3KFnDBWWOxGtgNY="
+            }
+          },
+          "2441wOfL0PC7321FepvrDI49IfBT/56t1G1fgvIRrP8=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "qTacp0e5MAIu6cHBC0dqSfqL0VpDLWykXC4ZIyyyksA="
+            }
+          },
+          "6MsUuxRJYkqZPhCkiK2T6DwYmB/g7ethpRBY3w4ZVUQ=": {
+            "valueMac": {
+              "type": "Buffer",
+              "data": "gapXCmHEESI6i16aAPQTE5i6gCJcTrRy7mknsE3QP7s="
+            }
+          }
+        }
+      }
+    }
+  }
+}
 ]
